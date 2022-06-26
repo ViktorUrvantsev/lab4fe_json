@@ -49,26 +49,6 @@
     "GoodsQntInput": "2000",
     "PriceInput": "1,80",
     "SubscribtionInput": "Ні" 
-  },
-   {
-    "id": 6,
-    "nameInput": "Соєве борошно обезжирене",
-    "ProviderInput": "Центральна товарна база",
-    "RegistrDateInput": "19.04.02",
-    "SalePointInput" : "Кафе “Капітан”",
-    "GoodsQntInput": "370",
-    "PriceInput": "1,20",
-    "SubscribtionInput": "Ні" 
-  },
-  {
-    "id": 7,
-    "nameInput": "М’ясо соєве",
-    "ProviderInput": "ПП “Флора” Київ",
-    "RegistrDateInput": "26.01.02",
-    "SalePointInput" : "Бар “Асторія”",
-    "GoodsQntInput": "450",
-    "PriceInput": "2,20",
-    "SubscribtionInput": "Так" 
   }
 ]
 }

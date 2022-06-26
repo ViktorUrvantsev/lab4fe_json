@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nameInput": "Соєва олія",
+    "ProviderInput": "ПП ”Олеся” Запоріжжя",
+    "RegistrDateInput": "12.06.02",
+    "SalePointInput" : "Бар “Асторія”",
+    "GoodsQntInput": "200",
+    "PriceInput": "3,25",
+    "SubscribtionInput": "Так" 
+  },
+  {
+    "id": 2,
+    "nameInput": "М’ясо соєве",
+    "ProviderInput": "ПП “Флора” Київ",
+    "RegistrDateInput": "03.09.02",
+    "SalePointInput" : "магазин № 15",
+    "GoodsQntInput": "400",
+    "PriceInput": "2,20",
+    "SubscribtionInput": "Так" 
+  },
+  {
+    "id": 3,
+    "nameInput": "Соєвий сир Тофу",
+    "ProviderInput": "Центральна товарна база",
+    "RegistrDateInput": "04.05.02",
+    "SalePointInput" : "Кафе “Капітан”",
+    "GoodsQntInput": "890",
+    "PriceInput": "10,15",
+    "SubscribtionInput": "Так" 
+  }
+]

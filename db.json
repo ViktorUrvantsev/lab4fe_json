@@ -28,25 +28,5 @@
     "GoodsQntInput": "890",
     "PriceInput": "10,15",
     "SubscribtionInput": "Так" 
-  },
-  {
-    "id": 4,
-    "nameInput": "М’ясо соєве",
-    "ProviderInput": "Центральна товарна база",
-    "RegistrDateInput": "23.07.02",
-    "SalePointInput" : "Бар “Асторія”",
-    "GoodsQntInput": "450",
-    "PriceInput": "2,50",
-    "SubscribtionInput": "Ні" 
-  },
-   {
-    "id": 5,
-    "nameInput": "Соєвий йогурт",
-    "ProviderInput": "ПП “Флора” Київ",
-    "RegistrDateInput": "18.12.02",
-    "SalePointInput" : "магазин № 21",
-    "GoodsQntInput": "2000",
-    "PriceInput": "1,80",
-    "SubscribtionInput": "Ні" 
   }
 ]

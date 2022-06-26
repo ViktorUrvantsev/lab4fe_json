@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "id": 1,
     "nameInput": "Соєва олія",
@@ -30,3 +31,4 @@
     "SubscribtionInput": "Так" 
   }
 ]
+}

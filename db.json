@@ -29,6 +29,96 @@
     "GoodsQntInput": "890",
     "PriceInput": "10,15",
     "SubscribtionInput": "Так" 
-  }
+  },
+  {
+    "id": 4,
+    "nameInput": "М’ясо соєве",
+    "ProviderInput": "Центральна товарна база",
+    "RegistrDateInput": "23.07.02",
+    "SalePointInput" : "Бар “Асторія”",
+    "GoodsQntInput": "450",
+    "PriceInput": "2,50",
+    "SubscribtionInput": "Ні" 
+  },
+   {
+    "id": 5,
+    "nameInput": "Соєвий йогурт",
+    "ProviderInput": "ПП “Флора” Київ",
+    "RegistrDateInput": "18.12.02",
+    "SalePointInput" : "магазин № 21",
+    "GoodsQntInput": "2000",
+    "PriceInput": "1,80",
+    "SubscribtionInput": "Ні" 
+  },
+   {
+    "id": 6,
+    "nameInput": "Соєве борошно обезжирене",
+    "ProviderInput": "Центральна товарна база",
+    "RegistrDateInput": "19.04.02",
+    "SalePointInput" : "Кафе “Капітан”",
+    "GoodsQntInput": "370",
+    "PriceInput": "1,20",
+    "SubscribtionInput": "Ні" 
+  },
+  {
+    "id": 7,
+    "nameInput": "М’ясо соєве",
+    "ProviderInput": "ПП “Флора” Київ",
+    "RegistrDateInput": "26.01.02",
+    "SalePointInput" : "Бар “Асторія”",
+    "GoodsQntInput": "450",
+    "PriceInput": "2,20",
+    "SubscribtionInput": "Так" 
+  },
+  {
+    "id": 8,
+    "nameInput": "Соус соєвий",
+    "ProviderInput": "ПП ”Олеся” Запоріжжя",
+    "RegistrDateInput": "23.07.02",
+    "SalePointInput" : "магазин № 12",
+    "GoodsQntInput": "600",
+    "PriceInput": "2,25",
+    "SubscribtionInput": "Так" 
+  },
+  {
+    "id": 9,
+    "nameInput": "Соєва олія",
+    "ProviderInput": "ПП “Флора” Київ",
+    "RegistrDateInput": "15.10.02",
+    "SalePointInput" : "магазин № 12",
+    "GoodsQntInput": "1200",
+    "PriceInput": "3,25",
+    "SubscribtionInput": "Так" 
+  },
+  {
+    "id": 10,
+    "nameInput": "Соєвий сир Тофу",
+    "ProviderInput": "ПП “Флора” Київ",
+    "RegistrDateInput": "15.10.02",
+    "SalePointInput" : "Кафе “Капітан”",
+    "GoodsQntInput": "1250",
+    "PriceInput": "8,50",
+    "SubscribtionInput": "Ні" 
+  },
+  {
+    "id": ,
+    "nameInput": "",
+    "ProviderInput": "",
+    "RegistrDateInput": "",
+    "SalePointInput" : "",
+    "GoodsQntInput": "",
+    "PriceInput": "",
+    "SubscribtionInput": "" 
+  },
+  {
+    "id": ,
+    "nameInput": "",
+    "ProviderInput": "",
+    "RegistrDateInput": "",
+    "SalePointInput" : "",
+    "GoodsQntInput": "",
+    "PriceInput": "",
+    "SubscribtionInput": "" 
+  },
 ]
 }
